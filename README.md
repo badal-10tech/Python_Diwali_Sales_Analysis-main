@@ -139,7 +139,7 @@ Diwali-Sales-Analysis/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/Diwali-Sales-Analysis.git
+git clone https://github.com/badal-10tech/Python_Diwali_Sales_Analysis-main.git
 ```
 
 2. Navigate to the project folder
@@ -182,7 +182,7 @@ These insights can help businesses **improve marketing strategies, target the ri
 ## 👨‍💻 Author
 
 Badal Singh Dashmer
-GitHub: https://github.com/your-username
+GitHub: https://github.com/badal-10tech/Python_Diwali_Sales_Analysis-main.git
 
 ---
 
